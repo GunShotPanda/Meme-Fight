@@ -11,11 +11,11 @@ var Door = function (game, data) {
 }
 Door.prototype.update = function () {
 	for (let user of this.game.users) {
-		if (user.name == "王二狗") {
+		if (user.name == "李狗蛋") {
 			return;
 		}
 	}
-	var npc = this.game.createNPC({name: "王二狗"});
+	var npc = this.game.createNPC({name: "李狗蛋"});
 	npc.npc = true;
 	npc.x = (this.x + .5) * C.TW;
 	npc.y = (this.y + .5) * C.TH;

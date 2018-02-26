@@ -32,7 +32,7 @@ var map = {
 	npcs: [{
 		x: 14,
 		y: 9,
-		name: "王二狗"
+		name: "李狗蛋"
 	}],
 	structs: [
 		{
@@ -59,7 +59,7 @@ var map = {
 			type: "sign",
 			x: 8,
 			y: 5,
-			message: "目标：消灭王二狗"
+			message: "目标：消灭李狗蛋"
 		}, {
 			type: "sign",
 			x: 7,
