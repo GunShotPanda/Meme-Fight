@@ -9,8 +9,6 @@ a html5 mutiplayer game
 	
 #搭建服务器方法
 
-将上面方法的第二部替换为：
-
 ```
 git clone https://github.com/imudges00lipeiran/Meme-Fight
 cd Heme-Fight
