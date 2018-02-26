@@ -1,7 +1,7 @@
 # Meme-Fight
 a html5 mutiplayer game
 #游戏简介
-
+![demo](https://raw.githubusercontent.com/guanyuxin/baogame/master/doc/demo.png)
 ###游戏目标:
 	把其他人推下水
 	使用道具消灭其他人
